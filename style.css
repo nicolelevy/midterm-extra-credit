@@ -8,6 +8,9 @@ height: 400px;
 background-size: cover;
 font-family: 'Lato', sans-serif;
 }
+h1{
+  font-size: 70px;
+}
 
 header{
   border: black;
