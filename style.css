@@ -10,7 +10,7 @@ font-family: 'Lato', sans-serif;
 }
 
 header{
-  background-color: black;
+  border: black;
   opacity: 0.5px;
   margin-top: 100px;
   margin-bottom: 100px;
