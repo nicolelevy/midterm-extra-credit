@@ -9,9 +9,16 @@ background-size: cover;
 font-family: 'Lato', sans-serif;
 }
 h1{
-  font-size: 40px;
+  font-size: 45px;
 }
 
+h2{
+  font-size: 20px;
+}
+h3{
+  font-size: 15px;
+  color: #30B3FF;
+}
 header{
   border: black;
   opacity: 0.5px;
